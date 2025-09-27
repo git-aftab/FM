@@ -93,10 +93,13 @@ Output Waveform
 
 
 Tabulation
-![WhatsApp Image 2025-09-24 at 23 05 27_41a34222](https://github.com/user-attachments/assets/bf182330-3088-4080-a753-1b925a18b3e9)
+
+![8633d49e-a229-481f-a286-cd6a981020a4](https://github.com/user-attachments/assets/4d7e648c-476a-49dd-939c-b29ba247bb1e)
 
 
 Calculation
+![ee23251b-98fe-4ed7-9353-bf5a7a0fdb2e](https://github.com/user-attachments/assets/c4b642ea-a8ec-4033-a992-643725c173e4)
+
 
 Frequency Deviation Practical = 
 
