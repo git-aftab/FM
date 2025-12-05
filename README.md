@@ -94,7 +94,8 @@ Output Waveform
 
 Tabulation
 
-![8633d49e-a229-481f-a286-cd6a981020a4](https://github.com/user-attachments/assets/4d7e648c-476a-49dd-939c-b29ba247bb1e)
+
+![WhatsApp Image 2025-12-05 at 11 38 20_99827427](https://github.com/user-attachments/assets/d7780fc9-9779-423a-9182-1ae45f816694)
 
 
 Calculation
